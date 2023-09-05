@@ -18,7 +18,7 @@ Users can calculate the enemy unit's attack target. They just need to provide th
 
 The starting values of the units can be loaded up from a `json file`. It can be created by the app - hitting the 'update' button will make the app `parse the game's wikipedia` for the list of units along with all their stats on each level, then it will save it all in the json file.
 
-The target is calculated by taking some priorities over others, such as which unit has more movement, then which has more initiative, then something else, end so on... I managed to create and use a `mathematical algorithm` for that.
+The target is calculated by taking some priorities over others, such as which unit has more movement, then which has more initiative, then something else, and so on... I managed to create and use a `mathematical algorithm` for that.
 
 ## Links
 The app's main functionality can be seen on youtube: https://youtu.be/kkgV8IeeQo4
