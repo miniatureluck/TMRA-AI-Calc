@@ -3,7 +3,7 @@
 ## Introduction
 
 This is my first non-tutorial app that I've made when I tried to learn C# in my free time.
-I've put the code here to show how much I improved since then.
+I've put the code here to show how much I've improved since then.
 
 Last time it was modified was in Sept 2021. I didn't have a clue about `version control` at that time, so there are no commits.
 This is how my version control looked like:
